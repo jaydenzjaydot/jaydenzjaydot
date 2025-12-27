@@ -1,6 +1,7 @@
-👋 Hi — I'm Thabo Zwane, Data Analyst (9+ years)  
+👋 Hi, I'm Thabo Zwane, Data Analyst (9+ years)  
 
-Welcome — I turn questions into insights and spreadsheets into stories. I take on fresh challenges every day, keep learning, and build tools that help teams make smarter decisions.
+  Welcome.......
+I turn questions into insights and spreadsheets into stories. I take on fresh challenges every day, keep learning, and build tools that help teams make smarter decisions.
 
 What I do
 - I blend business sense with data skills to solve problems, improve processes, and tell clear stories from noisy data.
