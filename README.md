@@ -15,7 +15,7 @@ Key strengths
 - Curious, collaborative, and committed to continuous improvement
 
 Career highlights
-- 7+ years of hands-on analytics experience across cleaning, modeling, reporting, and stakeholder delivery.
+- 9+ years of hands-on analytics experience across cleaning, modeling, reporting, and stakeholder delivery.
 - Regularly translate business needs into data solutions that reduce effort and increase clarity.
 - Comfortable presenting findings to technical and non-technical audiences alike.
 
